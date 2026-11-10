@@ -1,0 +1,17 @@
+{
+  "name": "共享数据快照的可恢复对象回收",
+  "files": [
+    {
+      "path": "roots.json",
+      "key": "id"
+    },
+    {
+      "path": "pins.json",
+      "key": "id"
+    },
+    {
+      "path": "retention.json",
+      "key": "id"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+[
+  {
+    "id": "policy",
+    "clock": 120,
+    "trash_grace": 30
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "reader-1",
+    "object_name": "manifest-a",
+    "expires": 150
+  },
+  {
+    "id": "reader-old",
+    "object_name": "orphan",
+    "expires": 10
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "snapshot-a",
+    "expires": 100,
+    "hold": false,
+    "object_name": "manifest-a"
+  },
+  {
+    "id": "snapshot-b",
+    "expires": 200,
+    "hold": true,
+    "object_name": "manifest-b"
+  }
+]

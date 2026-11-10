@@ -1,0 +1,7 @@
+{
+  "plan_at": 120,
+  "pin_renew_at": 121,
+  "restore_at": 125,
+  "purge_at": 151,
+  "trash_grace": 30
+}
